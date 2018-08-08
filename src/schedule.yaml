@@ -123,7 +123,6 @@
     canceled: true
 -
     date: October 10
-    topic: Exam Debrief
 -
     date: October 12
     assignments: A5 out
@@ -159,7 +158,6 @@
         notes: lecture22.pdf
 -
     date: October 24
-    event: 'Guest lecture: Yaron Minsky, Jane Street. "GADTs for Speed Demons"'
 -
     date: October 26
     assignments: A6 due; A7 out
@@ -202,18 +200,10 @@
         notes: lecture28.pdf
 -
     date: November 9
-    topic: Featherweight Java
     assignments: A8 due
-    links:
-        slides: slides29.pdf
-        notes: lecture29.pdf
 -
     date: November 12
     mon: true
-    topic: Featherweight Java Properties
-    links:
-        slides: slides30.pdf
-        notes: lecture30.pdf
 -
     date: November 14
     topic: Concurrency and Parallelism
@@ -226,7 +216,6 @@
 -
     date: November 19
     mon: true
-    topic: Exam Debrief
 -
     date: November 21
     event: No class (Thanksgiving)
@@ -252,10 +241,6 @@
         code: https://github.com/sampsyo/ppl-intro/tree/master/code
 -
     date: November 30
-    topic: Approximate Computing
-    links:
-        slides: slides34.pdf
-        paper: http://www.cs.cornell.edu/~asampson/media/papers/enerj-pldi2011.pdf
 -
     date: December 3
     mon: true
