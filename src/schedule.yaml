@@ -109,13 +109,13 @@
         notes: lecture16.pdf
 -
     date: October 3
+    event: Preliminary Exam I
+-
+    date: October 5
     topic: Definitional Translation and Continuations
     links:
         slides: slides17.pdf
         notes: lecture17.pdf
--
-    date: October 5
-    event: Preliminary Exam I
 -
     date: October 8
     mon: true
@@ -207,13 +207,13 @@
     mon: true
 -
     date: November 14
+    event: Preliminary Exam II
+-
+    date: November 16
     topic: Concurrency and Parallelism
     links:
         slides: slides31.pdf
         code: code31
--
-    date: November 16
-    event: Preliminary Exam II
 -
     date: November 19
     mon: true
@@ -246,6 +246,9 @@
     date: December 3
     mon: true
     topic: Victory Lap
-    assignments: A9 due
     links:
         slides: slides35.pdf
+-
+    date: December 5
+    event: No class (semester's over)
+    assignments: A9 due
