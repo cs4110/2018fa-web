@@ -109,6 +109,7 @@
         notes: lecture16.pdf
 -
     date: October 3
+    # Adrian traveling: ADA symposium
     event: Preliminary Exam I
 -
     date: October 5
@@ -182,12 +183,14 @@
         notes: lecture25.pdf
 -
     date: November 2
+    # Adrian traveling: ASPLOS PC meeting
     topic: Existential Types
     links:
         slides: slides26.pdf
         notes: lecture26.pdf
 -
     date: November 5
+    # Adrian *maybe* traveling: OOPSLA
     mon: true
     topic: Recursive Types
     links:
