@@ -4,7 +4,7 @@
     links:
         slides: slides01.pdf
 -
-    date: August 26
+    date: August 27
     topic: Introduction to Semantics
     links:
         slides: slides02.pdf
@@ -23,7 +23,7 @@
         notes: lecture04.pdf
     assignments: A1 out
 -
-    date: September 2
+    date: September 3
     topic: The IMP Language
     links:
         slides: slides05.pdf
@@ -41,7 +41,7 @@
         notes: lecture06.pdf
         scribbles: scribbles06.pdf
 -
-    date: September 9
+    date: September 10
     topic: Denotational Semantics
     links:
         slides: slides07.pdf
@@ -62,7 +62,7 @@
         slides: slides09.pdf
         notes: lecture09.pdf
 -
-    date: September 16
+    date: September 17
     topic: Hoare Logic
     links:
         slides: slides10.pdf
@@ -83,7 +83,7 @@
         slides: slides12.pdf
         notes: lecture12.pdf
 -
-    date: September 23
+    date: September 24
     topic: Lambda Calculus
     links:
         notes: lecture13.pdf
@@ -103,7 +103,7 @@
         notes: lecture15.pdf
         slides+: scribbleslides15.pdf
 -
-    date: September 30
+    date: October 1
     topic: Programming in the Lambda Calculus
     links:
         slides: slides16.pdf
@@ -118,7 +118,7 @@
     date: October 5
     event: Preliminary Exam I
 -
-    date: October 7
+    date: October 8
     topic: Exam Debrief
 -
     date: October 10
@@ -132,7 +132,7 @@
         notes: lecture18.pdf
         scribbles: scribbles18.pdf
 -
-    date: October 14
+    date: October 15
     topic: Proving Type Soundness
     links:
         slides: slides19.pdf
@@ -154,7 +154,7 @@
         slides: slides21.pdf
         notes: lecture21.pdf
 -
-    date: October 21
+    date: October 22
     topic: Polymorphism
     links:
         slides: slides22.pdf
@@ -171,7 +171,7 @@
         notes: lecture23.pdf
         slides+: scribbleslides23.pdf
 -
-    date: October 28
+    date: October 29
     topic: Compiling with Continuations
     links:
         slides: slides24.pdf
@@ -192,7 +192,7 @@
         slides: slides26.pdf
         notes: lecture26.pdf
 -
-    date: November 4
+    date: November 5
     topic: Recursive Types
     links:
         slides: slides27.pdf
@@ -212,7 +212,7 @@
         notes: lecture29.pdf
         slides+: scribbleslides29.pdf
 -
-    date: November 11
+    date: November 12
     topic: Featherweight Java Properties
     links:
         slides: slides30.pdf
@@ -229,7 +229,7 @@
     date: November 16
     event: Preliminary Exam II
 -
-    date: November 18
+    date: November 19
     topic: Exam Debrief
 -
     date: November 21
@@ -242,7 +242,7 @@
     event: No class (Thanksgiving)
     canceled: true
 -
-    date: November 25
+    date: November 26
     event: No class (Thanksgiving)
     canceled: true
 -
@@ -260,7 +260,7 @@
         slides: slides34.pdf
         paper: http://www.cs.cornell.edu/~asampson/media/papers/enerj-pldi2011.pdf
 -
-    date: December 2
+    date: December 3
     topic: Victory Lap
     assignments: A9 due
     links:
