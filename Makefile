@@ -1,10 +1,10 @@
 .PHONY: build clean view serve deploy
 
 build: node_modules
-	npm run build
+	yarn run build
 
 serve: node_modules
-	npm run serve
+	yarn run serve
 
 clean:
 	rm -rf build
@@ -13,14 +13,14 @@ view:
 	open build/index.html
 
 node_modules: package.json
-	npm install
+	yarn
 
 
 # Deployment.
 
 RSYNCARGS := --compress --recursive --checksum --itemize-changes \
-	--delete -e ssh
-DEST := fox:/cucs/web/cs/Courses/cs4110/2016fa
+	--delete -e ssh --perms --chmod=Du=rwx,Dgo=rx,Fu=rw,Fog=r
+DEST := cslinux:/courses/cs4110/2018fa
 
 deploy: clean build
 	rsync $(RSYNCARGS) build/ $(DEST)

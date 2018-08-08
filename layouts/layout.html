@@ -13,14 +13,16 @@
   <script src="http://localhost:35729/livereload.js"></script>
   {{/if}}
 </head>
-<body>
+<body {{#if wide }}class="wide"{{/if}}>
   <header>
-    <h1>
-      <a href="{{ relative '/' }}">{{ course.name }}</a>
-    </h1>
     <nav>
+      <h1>
+        <a href="./">{{ course.name }}</a>
+      </h1>
       {{#each pages}}
-      <p><a href="{{ relative this.link }}">{{ this.title }}</a></p>
+      {{#unless this.hide}}
+      <p><a href=".{{ this.link }}">{{ this.title }}</a></p>
+      {{/unless}}
       {{/each}}
       {{#each course.links}}
       <p><a href="{{ this.url }}">{{ this.name }}</a></p>
@@ -28,11 +30,11 @@
     </nav>
   </header>
   <main>
-  <h1>{{#if longtitle}}{{ longtitle }}{{else}}{{ title }}{{/if}}</h1>
+  <h1>{{#if fulltitle}}{{ course.title }}<br>{{ course.term }}{{else}}{{ title }}{{/if}}</h1>
     {{{ contents }}}
   </main>
   <footer>
-      <p><a href="https://www.cs.cornell.edu">Cornell University</a>
+      <p><a href="https://www.cornell.edu">Cornell University</a>
       &mdash;
       <a href="https://www.cs.cornell.edu">Department of Computer Science</a></p>
   </footer>
