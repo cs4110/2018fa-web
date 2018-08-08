@@ -5,43 +5,65 @@ order: 2
 ---
 CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride through the beauty and glory of programming languages, the theory behind them, and their implementation. It will not be easy, but you will achieve a clear and rigorous understanding of computing: a rare enlightenment that will give you great power.
 
+# TL;DR
+
+- All course communication will happen on Discourse.
+  - TK signup instructions
+  - You're responsible for knowing everything that gets posted in the Announcements category. TK ensure email notifications are enabled
+- Homework and grading happens on [CMS][].
+- There will be TK one-week homework assignments.
+  - You can work in pairs on homework if you like, in which case you'll write one submission together.
+  - The deadline is always Wednesday night at 11:59pm.
+  - TK slip days / dropped scores
+- There will be two in-class prelims and a final exam.
+- The homework and exams may feel different from other classes.
+  - Expect the homework to make you try things we haven't done in class. Expect to get stuck and to ask for help. Exams will be less expansive but will still require original thought.
+  - Grading for both homework assignments and exams will have a high standard for precision. Because this class is about formalism, little details matter more than the general gist of the solution.
+
+[cms]: https://cmsx.cs.cornell.edu/
+[finals]: https://registrar.cornell.edu/exams/fall-final-exam-schedule
+
 # Organization
 
-## Announcements and Q&A: Piazza
+## Announcements and Q&A: Discourse
 
-We will use a [Piazza][] forum for announcements and communication about the course. Please [sign up for the Piazza instance][piazza]. The course staff will post important updates there that you really want to know about! Check often and enable email notifications.
+We will use a Discourse instance for announcements and communication about the course. (We're using Discourse *instead of* Piazza.) TK signup instructions. The course staff will post important updates there that you really want to know about! Check often, and be sure to enable notifications for the #announcements channel.
 
-[piazza]: http://piazza.com/cornell/fall2016/cs4110
+You can also ask questions---about lectures, homework, or anything else---on Discourse. TK category structure.
 
-You can also ask questions---about lectures, homework, or anything else---on Piazza. The course staff will respond as quickly as possible. It's the most efficient way to get help. If you email the staff directly, we will probably ask you to go through Piazza instead so everyone can benefit from the answer. (Please do email, though, if you have a question that needs to be kept private.)
+If you can answer a question yourself, please do! But be careful not to post answers---if you're not sure whether something is OK to post, contact the course staff privately. You can do that by TK private message.
 
-If you can answer a question yourself, please do! Be careful not to post answers (or parts of answers) to any homework or exam questions. If you're not sure whether something is OK to post, please ask via email.
+A good post asks a specific question. Here are some examples of bad Discourse posts:
+
+* "Tell me more about broad topic X."
+* "Does anyone have any hints for problem Y?"
+
+If you need help with a homework problem, for example, be sure to include what you've tried already, exactly where you're stuck, and what you're currently thinking about how to proceed. If you just ask for help without any evidence of effort, we'll punt the question back to you for more details.
 
 ## Assignments: CMS
 
 You will download homework assignments, upload solutions, and receive grades through [CMS][]. Please log in there to see whether you're in the system. If you're not, please send your NetID to the course staff and we'll get you set up.
 
-[cms]: https://cms-b.csuglab.cornell.edu/
-
-## Feedback
-
-Is the course moving too quickly or too slowly? To help calibrate the pace and content, please fill out the [feedback form][fform] early and often.
-
-[fform]: https://sampsyo.wufoo.com/forms/4110-feedback/
-
 # Content
+
+We won't use a textbook, but if you like books, we have [some resources to suggest][rsrc].
+
+[rsrc]: resources.html
 
 ## Grading
 
 Final grades will be assigned with these proportions:
 
-* Problem sets: 45%
+* Problem sets: 40%
 * Preliminary exams: 30%
 * Final exam: 25%
+* Participation: 5%
+
+There is no algorithm for "curving" grades nor any predetermined cutoffs, so we won't be able to answer questions about letter-grade projections.
 
 ## Problem Sets
 
-Problem sets are due periodically at 11:59 PM. See the [course schedule][schedule]. You can work on problem sets with a partner; you'll turn in one completed assignment together.
+Problem sets are due on Wednesdays at 11:59 PM. See the [course schedule][schedule]. You can work on problem sets with a partner; you'll turn in one completed assignment together.
 
 [schedule]: {{ relative "/schedule.html" }}
 
@@ -60,15 +82,34 @@ Aside from that, late work will not be accepted and will count for zero points.
 
 There will be two in-class preliminary exams and a final exam. See the [course schedule][schedule].
 
-Makeup exams must be scheduled within the first three weeks of class. Check the schedule now to see if you have a conflict with another class and contact the instructor immediately to reschedule.
+Makeup exams must be scheduled within the first three weeks of class. Check the schedule now to see if you have a conflict with another class and contact the staff immediately to reschedule.
+
+## Participation
+
+To get full credit on the 5% of your grade allocated to participation, you just have to do three things:
+
+* TK "introduction" assignment
+* Fill out the mid-semester feedback survey.
+* Fill out the semester-end course evaluation.
+
+Free points!
+
+## The Difficulty You Can Expect
+
+This is an advanced course, so some things will be different from other classes you have taken:
+
+* The homework will ask you to do new things *that you have not practiced already during lecture*. This can make the homework feel difficult, and you may even get totally stumped on some problems. This is normal. But it does mean that you should start early and leave time to ask questions.
+* Problems on exams will feel more familiar and should stretch you somewhat less. On the other hand, they will not be slightly tweaked versions of previous homework problems.
+
+Grading on both homework and exams will intentionally focus on nitpicky details. Compared to other courses, we will give more weight to "small" mistakes and less weight to getting the general idea right. That's the nature of this course, which is about formalism. Often, the intuitive idea behind a problem is totally obvious! Then, the topic we're working on is 100% about getting the nitty-gritty formal details right so we can prove something beyond a shadow of a doubt.
 
 # Policies
 
 ## Academic Integrity
 
-Absolute integrity is expected of all Cornell students in every academic undertaking. The course staff will prosecute violations aggressively using automatic detection tools.
+Absolute integrity is expected of all Cornell students in every academic undertaking. The course staff will prosecute violations aggressively.
 
-You are responsible for understanding every word of these policies:
+You are responsible for understanding these policies:
 
 - <a href="http://cuinfo.cornell.edu/Academic/AIC.html">Cornell University Code of Academic Integrity</a>
 - <a href="http://www.cs.cornell.edu/ugrad/CSMajor/index.htm#ai">Computer Science Department Code of Academic Integrity</a>
@@ -85,11 +126,11 @@ On **problem sets**, everything you turn in must be 100% completely your own wor
 * *Do* ask someone if you're confused about what the assignment is asking for.
 * *Definitely* ask the course staff if you're not sure whether or not something is OK.
 
-Here's the policy for **exams**: You may not give assistance to anyone or receive assistance of any kind from anyone at all during an exam. All exams are closed book.
+Here's the policy for **exams**:
+you may not give assistance to anyone or receive assistance of any kind from anyone at all (outside of the course staff) during an exam. All exams are closed book.
 
-You may not give any hints or post any code that might be part of a solution on Piazza.
-
-If you are unsure about what is permissible and what is not, *please ask*!
+You may not give any hints or post any code that might be part of a solution on Discourse (except in a private thread with course staff).
+On both assignments and exams, the web is always off limits: you may not Google anything or look anything up on Wikipedia to get help, for example.
 
 ## Respect in Class
 
@@ -101,12 +142,12 @@ If any of the communication in this class doesn't meet these standards, please d
 
 ## Special Needs and Wellness
 
-It is university policy to provide reasonable accommodations to students who have a documented disability (e.g., physical, learning, psychiatric, vision, hearing, or systemic) that may affect their
-ability to participate in course activities or to meet course requirements. Students with disabilities are encouraged to contact <a href="http://sds.cornell.edu">Student Disability Services</a> at
-607-254-4545, or the instructor for a confidential discussion of their
+We provide accommodations for disabilities.
+Students with disabilities can contact <a href="http://sds.cornell.edu">Student Disability Services</a> at
+607-254-4545 or the instructor for a confidential discussion of their
 individual needs.
 
-If you are experiencing undue personal or academic stress at any time during the semester or need to talk to someone who can help, contact the instructor or:
+If you experience personal or academic stress or need to talk to someone who can help, contact the instructor or:
 
 - <a href="http://www.engineering.cornell.edu/student-services/academic-advising">Engineering Academic Advising</a> at 607-255-7414
 - <a href="http://lsc.sas.cornell.edu">Learning Strategies Center</a> at 607-255-6310
