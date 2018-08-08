@@ -11,13 +11,18 @@ in {{ course.room }}
 ### Instructor
 
 [**Adrian Sampson**][adrian]  
-<asampson@cs.cornell.edu>  
 office hours TK  
 in Gates 411A
 
 ### Teaching Assistants
 
-TK
+**Pedro Amorim**
+
+**Devin Lehmacher**
+
+**Alexa VanHattum**
+
+**Irene Yoon**
 
 
 [adrian]: http://www.cs.cornell.edu/~asampson/
