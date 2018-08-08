@@ -84,26 +84,26 @@
 -
     date: September 24
     mon: true
-    topic: Lambda Calculus
+    topic: λ-Calculus
     links:
         notes: lecture13.pdf
 -
     date: September 26
     assignments: A4 due
-    topic: More Lambda Calculus and Substitution
+    topic: More λ-Calculus and Substitution
     links:
         slides: slides14.pdf
         notes: lecture14.pdf
 -
     date: September 28
-    topic: Lambda Calculus Encodings
+    topic: λ-Calculus Encodings
     links:
         slides: slides15.pdf
         notes: lecture15.pdf
 -
     date: October 1
     mon: true
-    topic: Programming in the Lambda Calculus
+    topic: Programming in the λ-Calculus
     links:
         slides: slides16.pdf
         notes: lecture16.pdf
