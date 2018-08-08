@@ -12,6 +12,7 @@
         notes: lecture02.pdf
 -
     date: August 29
+    assignments: A1 out
     topic: Inductive Definitions and Proofs
     links:
         slides: slides03.pdf
@@ -22,7 +23,6 @@
     links:
         slides: slides04.pdf
         notes: lecture04.pdf
-    assignments: A1 out
 -
     date: September 3
     mon: true
@@ -30,6 +30,7 @@
     canceled: true
 -
     date: September 5
+    assignments: A1 due; A2 out
     topic: The IMP Language
     links:
         slides: slides05.pdf
@@ -37,7 +38,6 @@
 -
     date: September 7
     topic: IMP Properties
-    assignments: A1 due; A2 out
     links:
         slides: slides06.pdf
         notes: lecture06.pdf
@@ -50,6 +50,7 @@
         notes: lecture07.pdf
 -
     date: September 12
+    assignments: A2 due; A3 out
     topic: Denotational Semantics Examples
     links:
         slides: slides08.pdf
@@ -57,7 +58,6 @@
 -
     date: September 14
     topic: Axiomatic Semantics
-    assignments: A2 due; A3 out
     links:
         slides: slides09.pdf
         notes: lecture09.pdf
@@ -70,6 +70,7 @@
         notes: lecture10.pdf
 -
     date: September 19
+    assignments: A3 due; A4 out
     topic: Hoare Logic Examples
     links:
         slides: slides11.pdf
@@ -77,7 +78,6 @@
 -
     date: September 21
     topic: Weakest Preconditions
-    assignments: A3 due; A4 out
     links:
         slides: slides12.pdf
         notes: lecture12.pdf
@@ -89,13 +89,13 @@
         notes: lecture13.pdf
 -
     date: September 26
+    assignments: A4 due
     topic: More Lambda Calculus and Substitution
     links:
         slides: slides14.pdf
         notes: lecture14.pdf
 -
     date: September 28
-    assignments: A4 due
     topic: Lambda Calculus Encodings
     links:
         slides: slides15.pdf
@@ -123,9 +123,9 @@
     canceled: true
 -
     date: October 10
+    assignments: A5 out
 -
     date: October 12
-    assignments: A5 out
     topic: Simple Types
     links:
         notes: lecture18.pdf
@@ -138,13 +138,14 @@
         notes: lecture19.pdf
 -
     date: October 17
+    assignments: A5 due; A6 out
     topic: Normalization
     links:
         slides: slides20.pdf
         notes: lecture20.pdf
+# drop date is October 18 this year
 -
     date: October 19
-    assignments: A5 due; A6 out
     topic: Advanced Types
     links:
         slides: slides21.pdf
@@ -158,9 +159,9 @@
         notes: lecture22.pdf
 -
     date: October 24
+    assignments: A6 due; A7 out
 -
     date: October 26
-    assignments: A6 due; A7 out
     topic: Type Inference
     links:
         slides: slides23.pdf
@@ -174,6 +175,7 @@
         notes: lecture24.pdf
 -
     date: October 31
+    assignments: A7 due; A8 out
     topic: Records and Subtyping
     links:
         slides: slides25.pdf
@@ -181,7 +183,6 @@
 -
     date: November 2
     topic: Existential Types
-    assignments: A7 due; A8 out
     links:
         slides: slides26.pdf
         notes: lecture26.pdf
@@ -194,13 +195,13 @@
         notes: lecture27.pdf
 -
     date: November 7
+    assignments: A8 due
     topic: Propositions as Types
     links:
         slides: slides28.pdf
         notes: lecture28.pdf
 -
     date: November 9
-    assignments: A8 due
 -
     date: November 12
     mon: true
