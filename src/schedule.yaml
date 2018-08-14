@@ -1,8 +1,8 @@
 -
     date: August 24
     topic: Course Overview
-    links:
-        slides: slides01.pdf
+    # links:
+    #     slides: slides01.pdf
 -
     date: August 27
     mon: true
