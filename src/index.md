@@ -11,7 +11,7 @@ in {{ course.room }}
 ### Instructor
 
 [**Adrian Sampson**][adrian]  
-office hours TK  
+office hours: Monday 10--11am and Friday 11am--noon  
 in Gates 411A
 
 ### Teaching Assistants
@@ -24,5 +24,9 @@ in Gates 411A
 
 **Irene Yoon**
 
+### Office Hours by Appointment
+
+Can't make the normal office hours? Post a private topic to Discourse to request a special appointment.
+We'll do our best to meet with you if we have enough notice.
 
 [adrian]: http://www.cs.cornell.edu/~asampson/
