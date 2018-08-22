@@ -23,6 +23,8 @@ in Gates 411A
 **Alexa VanHattum**
 
 **Irene Yoon**
+office hours: Friday 10am--11am 
+in Gates G13
 
 ### Office Hours by Appointment
 
