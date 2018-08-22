@@ -20,7 +20,9 @@ in Gates 411A
 
 **Devin Lehmacher**
 
-**Alexa VanHattum**
+**Alexa VanHattum**  
+office hours: Wednesday 11:30am--12:30pm  
+in Gates G13
 
 **Irene Yoon**
 office hours: Friday 10am--11am 
