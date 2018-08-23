@@ -20,7 +20,7 @@ in Gates 411A
 
 **Devin Lehmacher**   
 office hours: Tuesday 3:30pm--4:30pm   
-in Rhodes 402
+in Rhodes 405
 
 **Alexa VanHattum**  
 office hours: Wednesday 11:30am--12:30pm  
