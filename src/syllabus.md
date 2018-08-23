@@ -8,7 +8,7 @@ CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride 
 # TL;DR
 
 - All course communication will happen on [Campuswire][cw].
-  - Create an account with your `netid@cornell.edu` email address. You should already have access.
+  - Create an account with your <code>netid&commat;cornell.edu</code> email address. You should already have access.
   - You're responsible for knowing everything that we post as notes there. Ignore announcements at your own risk.
 - Homework and grading happens on [CMS][].
 - There will be 9 one-week homework assignments.
@@ -29,7 +29,7 @@ CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride 
 
 ## Announcements and Q&A: Campuswire
 
-We will use [Campuswire][cw] for announcements and communication about the course. (We're using Campuswire *instead of* Piazza.) Sign up for an account there with your `netid@cornell.edu` email address. That should give you access---if not, please [email Adrian](mailto:asampson@cs.cornell.edu) for a secret code. The course staff will post important updates there that you really want to know about! Check often, and be sure to enable notifications for the #announcements channel.
+We will use [Campuswire][cw] for announcements and communication about the course. (We're using Campuswire *instead of* Piazza.) Sign up for an account there with your <code>netid&commat;cornell.edu</code> email address. That should give you access---if not, please [email Adrian](mailto:asampson@cs.cornell.edu) for a secret code. The course staff will post important updates there that you really want to know about! Check often, and be sure to enable notifications for the #announcements channel.
 
 You can also ask questions---about lectures, homework, or anything else---on Campuswire.
 
@@ -124,7 +124,7 @@ On **problem sets**, everything you turn in must be 100% completely your own wor
 
 * Do not show any partial solution to another student or give any hints.
 * Never share code. (Shared code is surprisingly easy to detect.)
-* Do not search the Internet for solutions.
+* Do not search the Internet for solutions. Don't look anything relevant up on Wikipedia. Don't search on Stack Overflow or anywhere else.
 * *Do* ask someone if you're confused about what the assignment is asking for.
 * *Definitely* ask the course staff if you're not sure whether or not something is OK.
 
