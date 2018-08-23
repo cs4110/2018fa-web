@@ -16,7 +16,7 @@ in Gates 411A
 
 ### Teaching Assistants
 
-**Pedro Amorim**
+**Pedro Amorim**   
 office hours: Thursday 3:00pm--4:00pm   
 in Rhodes 402
 
