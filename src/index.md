@@ -18,8 +18,8 @@ in Gates 411A
 
 **Pedro Amorim**
 
-**Devin Lehmacher**
-office hours: Tuesday 3:30pm--4:30pm
+**Devin Lehmacher**   
+office hours: Tuesday 3:30pm--4:30pm   
 in Rhodes 402
 
 **Alexa VanHattum**  
