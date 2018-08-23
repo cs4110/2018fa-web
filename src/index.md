@@ -32,7 +32,8 @@ in Gates G13
 
 ### Office Hours by Appointment
 
-Can't make the normal office hours? Post a private topic to Discourse to request a special appointment.
+Can't make the normal office hours? Post a private note to [Campuswire][cw] to request a special appointment.
 We'll do our best to meet with you if we have enough notice.
 
 [adrian]: http://www.cs.cornell.edu/~asampson/
+[cw]: https://campuswire.com/c/G8507B91A

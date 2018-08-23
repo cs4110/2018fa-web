@@ -7,9 +7,9 @@ CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride 
 
 # TL;DR
 
-- All course communication will happen on Discourse.
-  - TK signup instructions
-  - You're responsible for knowing everything that gets posted in the Announcements category. TK ensure email notifications are enabled
+- All course communication will happen on [Campuswire][cw].
+  - Create an account with your `netid@cornell.edu` email address. You should already have access.
+  - You're responsible for knowing everything that we post as notes there. Ignore announcements at your own risk.
 - Homework and grading happens on [CMS][].
 - There will be TK one-week homework assignments.
   - You can work in pairs on homework if you like, in which case you'll write one submission together.
@@ -22,18 +22,19 @@ CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride 
 
 [cms]: https://cmsx.cs.cornell.edu/
 [finals]: https://registrar.cornell.edu/exams/fall-final-exam-schedule
+[cw]: https://campuswire.com/c/G8507B91A
 
 # Organization
 
-## Announcements and Q&A: Discourse
+## Announcements and Q&A: Campuswire
 
-We will use a Discourse instance for announcements and communication about the course. (We're using Discourse *instead of* Piazza.) TK signup instructions. The course staff will post important updates there that you really want to know about! Check often, and be sure to enable notifications for the #announcements channel.
+We will use [Campuswire][cw] for announcements and communication about the course. (We're using Campuswire *instead of* Piazza.) Sign up for an account there with your `netid@cornell.edu` email address. That should give you access---if not, please [email Adrian](mailto:asampson@cs.cornell.edu) for a secret code. The course staff will post important updates there that you really want to know about! Check often, and be sure to enable notifications for the #announcements channel.
 
-You can also ask questions---about lectures, homework, or anything else---on Discourse. TK category structure.
+You can also ask questions---about lectures, homework, or anything else---on Campuswire.
 
 If you can answer a question yourself, please do! But be careful not to post answers---if you're not sure whether something is OK to post, contact the course staff privately. You can do that by TK private message.
 
-A good post asks a specific question. Here are some examples of bad Discourse posts:
+A good post asks a specific question. Here are some examples of bad posts:
 
 * "Tell me more about broad topic X."
 * "Does anyone have any hints for problem Y?"
@@ -129,7 +130,7 @@ On **problem sets**, everything you turn in must be 100% completely your own wor
 Here's the policy for **exams**:
 you may not give assistance to anyone or receive assistance of any kind from anyone at all (outside of the course staff) during an exam. All exams are closed book.
 
-You may not give any hints or post any code that might be part of a solution on Discourse (except in a private thread with course staff).
+You may not give any hints or post any code that might be part of a solution on Campuswire (except in a private thread with course staff).
 On both assignments and exams, the web is always off limits: you may not Google anything or look anything up on Wikipedia to get help, for example.
 
 ## Respect in Class
