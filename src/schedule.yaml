@@ -3,6 +3,7 @@
     topic: Course Overview
     links:
         slides: slides01.pdf
+        'scribbles': ../scribbles/lec02-slide-scribbles-1.pdf
 -
     date: August 27
     mon: true
@@ -10,6 +11,8 @@
     links:
         slides: slides02.pdf
         notes: lecture02.pdf
+        's1': ../scribbles/lec02-scribbles.pdf
+        's2': ../scribbles/lec02-slide-scribbles-2.pdf
 -
     date: August 29
     assignments: A1 out
