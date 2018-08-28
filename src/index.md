@@ -38,4 +38,4 @@ Can't make the normal office hours? Post a private note to [Campuswire][cw] to r
 We'll do our best to meet with you if we have enough notice.
 
 [adrian]: http://www.cs.cornell.edu/~asampson/
-[cw]: https://campuswire.com/c/G8507B91A
+[cw]: https://campuswire.com/p/G8507B91A

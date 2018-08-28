@@ -23,7 +23,7 @@ CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride 
 
 [cms]: https://cmsx.cs.cornell.edu/
 [finals]: https://registrar.cornell.edu/exams/fall-final-exam-schedule
-[cw]: https://campuswire.com/c/G8507B91A
+[cw]: https://campuswire.com/p/G8507B91A
 
 # Organization
 
