@@ -20,6 +20,8 @@
     links:
         slides: slides03.pdf
         notes: lecture03.pdf
+        's1': ../scribbles/lec03-scribbles.pdf
+        's2': ../scribbles/lec03-slide-scribbles.pdf
 -
     date: August 31
     topic: Inductive Proof and Large-Step Semantics
