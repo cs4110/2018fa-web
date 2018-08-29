@@ -46,7 +46,7 @@ Here are some well-written materials on standard PL topics:
 [thywissen]: https://www.cs.utexas.edu/%7Ejthywiss/Structural%20Induction%20in%20Programming%20Language%20Semantics.pdf
 
 
-# LaTeX
+## LaTeX
 
 There are many options for typesetting inference rules and derivation rules in LaTeX.
 We recommend [mathpartir][], which is included with most TeX distributions.
