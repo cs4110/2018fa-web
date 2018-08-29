@@ -21,6 +21,7 @@ If you are already familiar with another functional programming language, OCaml 
 [3110tut]: https://www.cs.cornell.edu/courses/cs3110/2016fa/l/01-intro/rec.html
 [try]: https://try.ocamlpro.com
 
+
 ## Textbooks You Might Like
 
 There are no required textbooks, but if you find yourself wanting extra background, you might find these textbooks helpful:
@@ -33,6 +34,7 @@ And here are a couple of good online textbooks that are relevant to the course:
 * [*Programming Languages: Application and Interpretation*](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) by Shriram Krishnamurthi.
 * [*Software Foundations*](https://www.cis.upenn.edu/~bcpierce/sf/) by Benjamin C. Pierce and a supporting cast.
 
+
 ## Extra Background
 
 Here are some well-written materials on standard PL topics:
@@ -42,3 +44,11 @@ Here are some well-written materials on standard PL topics:
 
 [siek]: https://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html
 [thywissen]: https://www.cs.utexas.edu/%7Ejthywiss/Structural%20Induction%20in%20Programming%20Language%20Semantics.pdf
+
+
+# LaTeX
+
+There are many options for typesetting inference rules and derivation rules in LaTeX.
+We recommend [mathpartir][], which is included with most TeX distributions.
+
+[mathpartir]: http://cristal.inria.fr/~remy/latex/mathpartir.html
