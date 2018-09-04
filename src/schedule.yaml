@@ -26,8 +26,8 @@
     date: August 31
     topic: Properties and Inductive Proofs
     links:
-        slides: slides04.pdf
-        notes: lecture04.pdf
+        same slides: slides03.pdf
+        same notes: lecture03.pdf
         's1': ../scribbles/lec04-scribbles.pdf
         's2': ../scribbles/lec04-slide-scribbles.pdf
 -
@@ -40,8 +40,8 @@
     assignments: A1 due; A2 out
     topic: Inductive Proof and Large-Step Semantics
     links:
-        same slides: slides04.pdf
-        same notes: lecture04.pdf
+        slides: slides04.pdf
+        notes: lecture04.pdf
 -
     date: September 7
     topic: The IMP Language
