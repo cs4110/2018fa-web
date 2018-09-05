@@ -42,6 +42,7 @@
     links:
         slides: slides04.pdf
         notes: lecture04.pdf
+        scribbles: ../scribbles/lec05-proofs.pdf
 -
     date: September 7
     topic: The IMP Language
