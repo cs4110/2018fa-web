@@ -63,70 +63,68 @@
     links:
         slides: slides07.pdf
         notes: lecture07.pdf
-        more slides: slides08.pdf
-        more notes: lecture08.pdf
 -
     date: September 14
+    topic: Denotational Semantics Examples
+    links:
+        slides: slides08.pdf
+        notes: lecture08.pdf
+-
+    date: September 17
+    mon: true
     topic: Axiomatic Semantics
     links:
         slides: slides09.pdf
         notes: lecture09.pdf
 -
-    date: September 17
-    mon: true
+    date: September 19
+    assignments: A3 due; A4 out
     topic: Hoare Logic
     links:
         slides: slides10.pdf
         notes: lecture10.pdf
 -
-    date: September 19
-    assignments: A3 due; A4 out
+    date: September 21
     topic: Hoare Logic Examples
     links:
         slides: slides11.pdf
         notes: lecture11.pdf
 -
-    date: September 21
+    date: September 24
+    mon: true
     topic: Weakest Preconditions
     links:
         slides: slides12.pdf
         notes: lecture12.pdf
 -
-    date: September 24
-    mon: true
+    date: September 26
+    assignments: A4 due
     topic: λ-Calculus
     links:
         notes: lecture13.pdf
 -
-    date: September 26
-    assignments: A4 due
+    date: September 28
     topic: More λ-Calculus and Substitution
     links:
         slides: slides14.pdf
         notes: lecture14.pdf
 -
-    date: September 28
+    date: October 1
+    mon: true
     topic: λ-Calculus Encodings
     links:
         slides: slides15.pdf
         notes: lecture15.pdf
--
-    date: October 1
-    mon: true
-    topic: Programming in the λ-Calculus
-    links:
-        slides: slides16.pdf
-        notes: lecture16.pdf
 -
     date: October 3
     # Adrian traveling: ADA symposium
     event: Preliminary Exam I
 -
     date: October 5
-    topic: Definitional Translation and Continuations
+    topic: Programming in the λ-Calculus
     links:
-        slides: slides17.pdf
-        notes: lecture17.pdf
+        slides: slides16.pdf
+        notes: lecture16.pdf
 -
     date: October 8
     mon: true
@@ -135,6 +133,10 @@
 -
     date: October 10
     assignments: A5 out
+    topic: Definitional Translation and Continuations
+    links:
+        slides: slides17.pdf
+        notes: lecture17.pdf
 -
     date: October 12
     topic: Simple Types
