@@ -17,7 +17,7 @@ in Gates 411A
 ### Teaching Assistants
 
 **Pedro Amorim**   
-office hours: Thursday 3:00pm--4:00pm   
+office hours: Thursday 4:00pm--5:00pm   
 in Rhodes 402
 
 **Devin Lehmacher**   
