@@ -11,6 +11,7 @@ CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride 
   - Create an account with your <code>netid&commat;cornell.edu</code> email address. You should already have access.
   - You're responsible for knowing everything that we post as notes there. Ignore announcements at your own risk.
 - Homework and grading happens on [CMS][].
+  - Submit your homework anonymously (don't put your name or NetID in the PDF).
 - There will be 9 one-week homework assignments.
   - You can work in pairs on homework if you like, in which case you'll write one submission together.
   - The deadline is always Wednesday night at 11:59pm.
@@ -45,6 +46,8 @@ If you need help with a homework problem, for example, be sure to include what y
 ## Assignments: CMS
 
 You will download homework assignments, upload solutions, and receive grades through [CMS][]. Please log in there to see whether you're in the system. If you're not, please send your NetID to the course staff and we'll get you set up.
+
+We're using an anonymous grading system, i.e., we won't know who we're grading. So please do not put your name or NetID anywhere in the PDF you upload to CMS. (CMS knows who you are!)
 
 # Content
 
