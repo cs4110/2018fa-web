@@ -49,6 +49,9 @@
     links:
         slides: slides05.pdf
         notes: lecture05.pdf
+        s1: ../scribbles/lec06-bigstep-scribbles.pdf
+        s2: ../scribbles/lec06-slides04-scribbles.pdf
+        s3: ../scribbles/lec06-slides05-scribbles.pdf
 -
     date: September 10
     mon: true
