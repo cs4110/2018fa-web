@@ -59,6 +59,9 @@
     links:
         slides: slides06.pdf
         notes: lecture06.pdf
+        s1: ../scribbles/lec07-slides05-scribbles.pdf
+        s2: ../scribbles/lec07-slides06-scribbles.pdf
+        s3: ../scribbles/lec07-imp-proofs.pdf
 -
     date: September 12
     assignments: A2 due; A3 out
