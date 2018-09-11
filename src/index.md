@@ -32,6 +32,10 @@ in Gates G15
 office hours: Tuesday 9am--10am  
 in Gates G13
 
+### Contact
+
+Please use [Campuswire][cw] (not email) for all course-related communication to make sure that the whole course staff can help.
+
 ### Office Hours by Appointment
 
 Can't make the normal office hours? Post a private note to [Campuswire][cw] to request a special appointment.
