@@ -69,6 +69,7 @@
     links:
         same slides: slides06.pdf
         same notes: lecture06.pdf
+        scribbles: ../scribbles/lec08-imp-proofs.pdf
 -
     date: September 14
     topic: Denotational Semantics
