@@ -76,6 +76,7 @@
     links:
         slides: slides07.pdf
         notes: lecture07.pdf
+        scribbles: ../scribbles/lec09-slides07-scribbles.pdf
 -
     date: September 17
     mon: true
@@ -83,6 +84,7 @@
     links:
         slides: slides08.pdf
         notes: lecture08.pdf
+        scribbles: ../scribbles/lec10-denotation.pdf
 -
     date: September 19
     assignments: A3 due; A4 out
