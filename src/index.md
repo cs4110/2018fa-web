@@ -29,7 +29,7 @@ office hours: Wednesday 10:30am--11:30am
 in Gates G15
 
 **Irene Yoon**  
-office hours: Tuesday 9am--10am  
+office hours: Friday 10am--11am 
 in Gates G13
 
 ### Contact
