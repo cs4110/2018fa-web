@@ -17,8 +17,8 @@ in Gates 411A
 ### Teaching Assistants
 
 **Pedro Amorim**   
-office hours: Thursday 4:00pm--5:00pm   
-in Rhodes 402
+office hours: Wednesday 2:00pm--3:00pm   
+in Rhodes 574
 
 **Devin Lehmacher**   
 office hours: Tuesday 3:30pm--4:30pm   
@@ -29,7 +29,7 @@ office hours: Wednesday 10:30am--11:30am
 in Gates G15
 
 **Irene Yoon**  
-office hours: Tuesday 9am--10am  
+office hours: Friday 10am--11am  
 in Gates G13
 
 ### Contact
