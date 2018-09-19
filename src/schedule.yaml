@@ -92,6 +92,8 @@
     links:
         slides: slides09.pdf
         notes: lecture09.pdf
+        s1: ../scribbles/lec11-slides09-scribbles.pdf
+        s2: ../scribbles/lec11-slides10-scribbles.pdf
 -
     date: September 21
     topic: Hoare Logic
