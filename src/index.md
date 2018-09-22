@@ -26,7 +26,7 @@ in Rhodes 405
 
 **Alexa VanHattum**  
 office hours: ~~Wednesday 10:30am--11:30am~~  
-~~in Gates G15~~
+~~in Gates G15~~  
 week of 9/26: Friday 9/28 3pm--4pm  
 in Gates G17
 
