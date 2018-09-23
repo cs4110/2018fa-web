@@ -100,6 +100,8 @@
     links:
         slides: slides10.pdf
         notes: lecture10.pdf
+        s1: ../scribbles/lec12-slides10-scribbles.pdf
+        s2: ../scribbles/lec12-hoare-proof.pdf
 -
     date: September 24
     mon: true
