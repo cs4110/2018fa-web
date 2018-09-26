@@ -118,6 +118,8 @@
     links:
         slides: slides12.pdf
         notes: lecture12.pdf
+        s1: ../scribbles/lec14-slides12-scribbles.pdf
+        s2: ../scribbles/lec14-lc-scribbles.pdf
 -
     date: September 28
     topic: λ-Calculus
