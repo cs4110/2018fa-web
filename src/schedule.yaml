@@ -139,7 +139,7 @@
     event: Preliminary Exam I
 -
     date: October 5
-    topic: λ-Calculus Encodings
+    topic: de Bruijn, Combinators, and Encodings
     links:
         slides: slides15.pdf
         notes: lecture15.pdf
@@ -151,7 +151,7 @@
 -
     date: October 10
     assignments: A5 out
-    topic: Programming in the λ-Calculus
+    topic: Encodings and Fixed-Point Combinators
     links:
         slides: slides16.pdf
         notes: lecture16.pdf
