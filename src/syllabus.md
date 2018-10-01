@@ -23,7 +23,6 @@ CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride 
   - Grading for both homework assignments and exams will have a high standard for precision. Because this class is about formalism, little details matter more than the general gist of the solution.
 
 [cms]: https://cmsx.cs.cornell.edu/
-[finals]: https://registrar.cornell.edu/exams/fall-final-exam-schedule
 [cw]: https://campuswire.com/p/G8507B91A
 
 # Organization

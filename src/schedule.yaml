@@ -291,3 +291,8 @@
     date: December 5
     event: No class (semester's over)
     assignments: A9 due
+
+-
+    mon: true
+    date: December 12
+    event: Final Exam at 9am (location TBD)
