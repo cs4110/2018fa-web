@@ -145,6 +145,7 @@
     links:
         slides: slides15.pdf
         notes: lecture15.pdf
+        scribbles: ../scribbles/lec17-slides15-scribbles.pdf
 -
     date: October 8
     mon: true
