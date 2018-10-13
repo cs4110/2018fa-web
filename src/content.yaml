@@ -182,6 +182,8 @@
         slides: slides28.pdf
         notes: lecture28.pdf
 -
+    gap: true
+-
     topic: Concurrency and Parallelism
     links:
         slides: slides31.pdf
@@ -197,6 +199,10 @@
         slides: slides33.pdf
         notes: http://adriansampson.net/doc/ppl.html
         code: https://github.com/sampsyo/ppl-intro/tree/master/code
+-
+    gap: true
+-
+    gap: true
 -
     topic: Victory Lap
     links:
