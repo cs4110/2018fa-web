@@ -195,12 +195,9 @@
 -
     topic: Probabilistic Programming
     links:
-        slides: slides33.pdf
         notes: http://adriansampson.net/doc/ppl.html
         code: https://github.com/sampsyo/ppl-intro/tree/master/code
 -
     gap: true
 -
     topic: Victory Lap
-    links:
-        slides: slides35.pdf
