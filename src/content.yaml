@@ -157,11 +157,6 @@
         slides: slides23.pdf
         notes: lecture23.pdf
 -
-    topic: Compiling with Continuations
-    links:
-        slides: slides24.pdf
-        notes: lecture24.pdf
--
     topic: Records and Subtyping
     links:
         slides: slides25.pdf
@@ -181,6 +176,8 @@
     links:
         slides: slides28.pdf
         notes: lecture28.pdf
+-
+    gap: true
 -
     gap: true
 -
