@@ -189,6 +189,8 @@
         slides: slides31.pdf
         code: code31
 -
+    gap: true
+-
     topic: Shared-Memory Parallelism
     links:
         slides: slides32.pdf
@@ -199,8 +201,6 @@
         slides: slides33.pdf
         notes: http://adriansampson.net/doc/ppl.html
         code: https://github.com/sampsyo/ppl-intro/tree/master/code
--
-    gap: true
 -
     gap: true
 -
