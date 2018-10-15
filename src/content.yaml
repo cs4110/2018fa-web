@@ -123,12 +123,17 @@
         notes: lecture16.pdf
         scribbles: ../scribbles/lec19-slides16-scribbles.pdf
 -
-    topic: Definitional Translation and Continuations
+    topic: Definitional Translation
     links:
         slides: slides17.pdf
         notes: lecture17.pdf
         s1: ../scribbles/lec20-slides16-scribbles.pdf
         s2: ../scribbles/lec20-slides17-scribbles.pdf
+-
+    topic: Continuations
+    links:
+        same slides: slides17.pdf
+        same notes: lecture17.pdf
 -
     topic: Simple Types
     links:
@@ -178,8 +183,6 @@
     links:
         slides: slides28.pdf
         notes: lecture28.pdf
--
-    gap: true
 -
     gap: true
 -
