@@ -127,6 +127,8 @@
     links:
         slides: slides17.pdf
         notes: lecture17.pdf
+        s1: ../scribbles/lec20-slides16-scribbles.pdf
+        s2: ../scribbles/lec20-slides17-scribbles.pdf
 -
     topic: Simple Types
     links:
