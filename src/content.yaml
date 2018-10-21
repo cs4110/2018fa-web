@@ -134,11 +134,13 @@
     links:
         same slides: slides17.pdf
         same notes: lecture17.pdf
-        scribbles: ../scribbles/lec21-slides16-scribbles.pdf
+        scribbles: ../scribbles/lec21-slides17-scribbles.pdf
 -
-    topic: Simple Types
+    topic: Types
     links:
         notes: lecture18.pdf
+        s1: ../scribbles/lec22-slides17-scribbles.pdf
+        s2: ../scribbles/lec22-scribbles.pdf
 -
     topic: Proving Type Soundness
     links:
