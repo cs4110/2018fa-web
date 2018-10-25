@@ -142,12 +142,17 @@
         s1: ../scribbles/lec22-slides17-scribbles.pdf
         s2: ../scribbles/lec22-scribbles.pdf
 -
+    topic: More Types
+    links:
+        same notes: lecture18.pdf
+        s1: ../scribbles/lec23-scribbles.pdf
+        s2: ../scribbles/lec23-slides19-scribbles.pdf
+-
     topic: Proving Type Soundness
     links:
         slides: slides19.pdf
         notes: lecture19.pdf
-        s1: ../scribbles/lec23-scribbles.pdf
-        s2: ../scribbles/lec23-slides19-scribbles.pdf
+        scribbles: ../scribbles/lec24-scribbles.pdf
 -
     topic: Normalization
     links:
