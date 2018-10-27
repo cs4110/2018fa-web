@@ -158,6 +158,8 @@
     links:
         slides: slides20.pdf
         notes: lecture20.pdf
+        s1: ../scribbles/lec25-slides20-scribbles.pdf
+        s2: ../scribbles/lec25-normalization.pdf
 -
     topic: Advanced Types
     links:
