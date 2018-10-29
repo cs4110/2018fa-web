@@ -165,6 +165,7 @@
     links:
         slides: slides21.pdf
         notes: lecture21.pdf
+        scribbles: ../scribbles/lec26-slides21-scribbles.pdf
 -
     topic: Polymorphism
     links:
