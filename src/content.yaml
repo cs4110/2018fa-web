@@ -177,6 +177,11 @@
         slides: slides23.pdf
         notes: lecture23.pdf
 -
+    topic: Recursive Types
+    links:
+        slides: slides27.pdf
+        notes: lecture27.pdf
+-
     topic: Records and Subtyping
     links:
         slides: slides25.pdf
@@ -186,11 +191,6 @@
     links:
         slides: slides26.pdf
         notes: lecture26.pdf
--
-    topic: Recursive Types
-    links:
-        slides: slides27.pdf
-        notes: lecture27.pdf
 -
     topic: Propositions as Types
     links:
