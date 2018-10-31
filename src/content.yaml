@@ -171,6 +171,7 @@
     links:
         slides: slides22.pdf
         notes: lecture22.pdf
+        scribbles: ../scribbles/lec27-slides22-scribbles.pdf
 -
     topic: Type Inference
     links:
