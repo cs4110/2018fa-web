@@ -187,6 +187,7 @@
     links:
         slides: slides25.pdf
         notes: lecture25.pdf
+        scribbles: ../scribbles/lec30-slides25-scribbles.pdf
 -
     topic: Existential Types
     links:
