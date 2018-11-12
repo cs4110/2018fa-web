@@ -193,11 +193,13 @@
     links:
         slides: slides26.pdf
         notes: lecture26.pdf
+        scribbles: ../scribbles/lec31-slides26-scribbles.pdf
 -
     topic: Propositions as Types
     links:
         slides: slides28.pdf
         notes: lecture28.pdf
+        scribbles: ../scribbles/lec32-slides28-scribbles.pdf
 -
     gap: true
 -
