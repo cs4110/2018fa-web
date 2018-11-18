@@ -206,23 +206,21 @@
     links:
         notes: lecture29.pdf
 -
-    topic: Concurrency and Parallelism
+    topic: Higher-Kinded Types
     links:
-        slides: slides31.pdf
-        code: code31
+        notes: lecture30.pdf
 -
-    gap: true
+    topic: Dependent Types
+    links:
+        notes: lecture31.pdf
+-
+    topic: Concurrency and Parallelism
 -
     topic: Shared-Memory Parallelism
-    links:
-        slides: slides32.pdf
-        code: code32/scviol.c
 -
     topic: Probabilistic Programming
     links:
         notes: http://adriansampson.net/doc/ppl.html
         code: https://github.com/sampsyo/ppl-intro/tree/master/code
--
-    gap: true
 -
     topic: Victory Lap
