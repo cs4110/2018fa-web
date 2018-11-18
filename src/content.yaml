@@ -205,6 +205,7 @@
     topic: Linear Types
     links:
         notes: lecture29.pdf
+        scribbles: ../scribbles/lec33-scribbles.pdf
 -
     topic: Higher-Kinded Types
     links:
