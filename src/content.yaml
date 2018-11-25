@@ -217,7 +217,7 @@
 -
     topic: Theorem Provers
     links:
-        notes: leandemo.md
+        notes: https://github.com/cs4110/2018fa-web/blob/master/src/lectures/leandemo.md
 -
     topic: Shared-Memory Parallelism
 -
