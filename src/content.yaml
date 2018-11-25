@@ -215,7 +215,9 @@
     links:
         notes: lecture31.pdf
 -
-    topic: Concurrency and Parallelism
+    topic: Theorem Provers
+    links:
+        notes: leandemo.md
 -
     topic: Shared-Memory Parallelism
 -
