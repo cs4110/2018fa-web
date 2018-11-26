@@ -250,24 +250,24 @@ The function works how you expect a good `dbl` to work:
 
     #reduce dbl somelist
 
-We can use the same principle to write one version of the dependently-typed indexing function, `get`.
+We can use the same principle to write one version of the dependently-typed indexing function, `get'`.
 The idea is to use *two* type-level parameters: the index we're interested in, and the number of other elements in the list (minus one).
-We only want to pattern-match on the index, so our declaration for `get` will use an explicit `Pi` for only one of these numbers:
+We only want to pattern-match on the index, so our declaration for `get'` will use an explicit `Pi` for only one of these numbers:
 
-    def get {n : nat} : Pi {m : nat}, IList (n+m+1) -> int
+    def get' {n : nat} : Pi {m : nat}, IList (n+m+1) -> int
     | 0     (IList.cons h t) := h
-    | (_+1) (IList.cons h t) := get t
+    | (_+1) (IList.cons h t) := get' t
 
 The second case uses a recursive call. Lean can synthesize its type-level arguments automatically. A more explicit way to write that line would be:
 
-    | (x+1) (IList.cons h t) := @get x t
+    | (x+1) (IList.cons h t) := @get' x t
 
 indicating that the index argument decreases with each recursive call.
 To use this function, we need to use the `@` form to explicitly provide the parameter we're interested in (and the first bookkeeping parameter):
 
     def longlist := IList.cons 6 (IList.cons 1
         (IList.cons 1 (IList.cons 0 IList.nil)))
-    #reduce @get 3 0 longlist  -- Get the first element.
-    #reduce @get 0 3 longlist  -- ...and the last element.
+    #reduce @get' 3 0 longlist  -- Get the first element.
+    #reduce @get' 0 3 longlist  -- ...and the last element.
 
 Behind the scenes, Lean is using facts it knows about its built-in `nat` type to prove `get` safe.
