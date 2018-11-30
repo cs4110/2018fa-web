@@ -219,10 +219,9 @@
     links:
         notes: https://github.com/cs4110/2018fa-web/blob/master/src/lectures/leandemo.md
 -
-    topic: Shared-Memory Parallelism
--
     topic: Probabilistic Programming
     links:
+        slides: ppl-slides.pdf
         notes: http://adriansampson.net/doc/ppl.html
         code: https://github.com/sampsyo/ppl-intro/tree/master/code
 -
