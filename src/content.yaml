@@ -210,10 +210,12 @@
     topic: Higher-Kinded Types
     links:
         notes: lecture30.pdf
+        scribbles: ../scribbles/lec34-scribbles.pdf
 -
     topic: Dependent Types
     links:
         notes: lecture31.pdf
+        scribbles: ../scribbles/lec35-scribbles.pdf
 -
     topic: Theorem Provers
     links:
