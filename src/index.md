@@ -25,7 +25,7 @@ office hours: Tuesday 3:30pm--4:30pm
 in Rhodes 405
 
 **Alexa VanHattum**  
-office hours: Wednesday 10:30am--11:30am  
+office hours: (week of 12/10) Monday 5:30pm--6:30pm  
 in Gates G15
 
 **Irene Yoon**  
